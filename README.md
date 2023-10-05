@@ -9,4 +9,4 @@ Enter amount of times to run simulation
 
 If you were to switch you would have won a car 277735 out of 500000 times
 
-If you were to not switch you would have won a car 166664 out of 500000 times 
+If you were to not switch you would have won a car 222265 out of 500000 times 
